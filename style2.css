@@ -1,0 +1,35 @@
+body {
+    background-color:rgb(61, 70, 78);
+}
+.form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 75vh;
+    flex-direction: column;
+    gap: 60px;
+}
+input {
+    width: 200px;
+    height: 40px;
+}
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    flex-wrap: wrap;
+    padding-right: 75px;
+}
+#bolso12 {
+    text-decoration:none;
+    display:flex;
+    color: rgb(251, 251, 251);
+}
+.tam {
+    font-size: 25px;
+}
+.cu {
+    display: flex;
+    justify-content: center;
+    color: rgb(251, 251, 251);
+}
