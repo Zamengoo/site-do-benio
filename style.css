@@ -4,6 +4,7 @@ h1 {
     font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
     text-align:center;
     justify-content: center;
+    text-decoration: underline green;
 }
 h2 {
     color: rgb(251, 251, 251);
@@ -112,4 +113,5 @@ button:hover {
     text-decoration:none;
     display:flex;
     color: rgb(251, 251, 251);
+    text-decoration: underline green;
 }

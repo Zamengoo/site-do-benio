@@ -7,7 +7,7 @@ body {
     justify-content: center;
     min-height: 75vh;
     flex-direction: column;
-    gap: 60px;
+    gap: 30px;
 }
 input {
     width: 200px;
@@ -21,12 +21,13 @@ input {
     padding-right: 75px;
 }
 #bolso12 {
-    text-decoration:none;
     display:flex;
     color: rgb(251, 251, 251);
+    text-decoration: underline green;
 }
 .tam {
     font-size: 25px;
+    text-decoration: underline green;
 }
 .cu {
     display: flex;
